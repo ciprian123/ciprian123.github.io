@@ -241,8 +241,15 @@ html, body {
   width: 600px;
 }
 
-.logo {
+#logo {
+  height: 60px;
+  width: 60px;
+  padding: 15px;
+  float: left;
+}
+
+#copyright {
   text-align: center;
   font-weight: bold;
-  padding-left: 40px
+  padding: 5px;
 }
